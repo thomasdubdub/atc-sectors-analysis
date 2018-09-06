@@ -1,6 +1,6 @@
 # Analysis of Air Traffic Control en-route sectors of Metropolitan France
 
-Air traffic control sectors data are extracted from the [SIA website](https://www.sia.aviation-civile.gouv.fr) in the eAIP section (ENR 3.8) 
+Air traffic control sectors data are extracted from the [SIA website](https://www.sia.aviation-civile.gouv.fr) in the eAIP section (ENR 3.8). 
 A basic analysis is then realized with [GeoPandas](http://geopandas.org/) 
 The following questions are notably addressed:
 * How many Area Control Centers (ACC), sectors and airspace volumes over Metropolitan France?
